@@ -1,23 +1,31 @@
-# ISAT Subtasks 1–3
+# NC(V) ISAT and Technical Project Archive
 
-## Overview
-This repository is associated with an Integrated Summative Assessment Task (ISAT). The previous README described three activities: research comparing GitHub and GitLab, a number-conversion program, and a Magwinya Magic order-management program.
+This repository holds selected programming, electronics and robotics work, with clear status notes so that planned designs are not confused with completed or tested projects.
 
-## Activities described in the project notes
-1. **Task 1 — Version-control research:** a comparison of GitHub and GitLab.
-2. **Task 2 — Number converter:** planned conversions between decimal, binary and hexadecimal, including a random-number demonstration.
-3. **Task 3 — Magwinya Magic order management:** a planned console program using parallel arrays to add, display and search orders and calculate revenue.
+## Main portfolio index
 
-## Repository contents and accuracy
-At the time this README was reviewed, the repository contained this README file only. The source code, screenshots and supporting task documents for the three activities were not present in the repository. The activities above are therefore descriptions from the previous README, not verified claims that working programs are included here.
+See [ALL_LEVELS_PORTFOLIO_INDEX.md](./ALL_LEVELS_PORTFOLIO_INDEX.md) for the cross-level record of NC(V) Level 2, Level 3 and Level 4 projects, the evidence located so far and the missing files still needed.
 
-## Adding the original work
-Upload the original source files and supporting documents before describing the programs as implemented or tested. When source code is added, include the correct filenames and compiler instructions here.
+## Project folders
 
-## Author
-Thabiso Ndlovu
+- [Warehouse Security and Inventory Robot](./projects/warehouse-security-inventory-robot/) — Arduino Uno sketch and hardware notes. Source available; hardware testing not confirmed.
+- [Electronics Supplier Data Processing](./projects/electronics-supplier-data-processing/) — Python reference implementation for Technical Programming PAT 2. Official data files and execution tests still required.
+- [Mobile Phone RF Detector](./projects/mobile-phone-rf-detector/) — editable Draw.io concept schematic. Circuit not verified for construction.
 
+## Earlier ISAT activities
 
-## All-level portfolio index
+The original notes for this repository describe:
+1. Research comparing GitHub and GitLab.
+2. A Number Converter for decimal, binary and hexadecimal values.
+3. A Magwinya Magic order-management program.
 
-A cross-level index of NC(V) Level 2, Level 3 and Level 4 projects, including evidence located, missing source files and next steps, is available in [ALL_LEVELS_PORTFOLIO_INDEX.md](./ALL_LEVELS_PORTFOLIO_INDEX.md).
+The original source files for those three activities are still missing. They are not represented as working programs in this repository.
+
+## Project status rules
+
+- **Concept:** design idea only.
+- **Source available:** code or design file exists, but testing may be outstanding.
+- **Evidence incomplete:** some supporting files, photos or reports are missing.
+- **Tested:** only use after the project has been run or demonstrated and the results recorded.
+
+Do not add passwords, API keys, private student details or other sensitive information to this public repository.
