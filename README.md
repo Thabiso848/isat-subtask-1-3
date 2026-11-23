@@ -1,51 +1,18 @@
-1. Introduction
+# ISAT Subtasks 1–3
 
-This repository contains my Integrated Summative Assessment Task (ISAT) project.
-It includes research, C++ programs, and supporting documents. The project demonstrates my ability to:
+## Overview
+This repository is associated with an Integrated Summative Assessment Task (ISAT). The previous README described three activities: research comparing GitHub and GitLab, a number-conversion program, and a Magwinya Magic order-management program.
 
-Plan and design solutions to given problems.
+## Activities described in the project notes
+1. **Task 1 — Version-control research:** a comparison of GitHub and GitLab.
+2. **Task 2 — Number converter:** planned conversions between decimal, binary and hexadecimal, including a random-number demonstration.
+3. **Task 3 — Magwinya Magic order management:** a planned console program using parallel arrays to add, display and search orders and calculate revenue.
 
-Write, test, and debug C++ code.
+## Repository contents and accuracy
+At the time this README was reviewed, the repository contained this README file only. The source code, screenshots and supporting task documents for the three activities were not present in the repository. The activities above are therefore descriptions from the previous README, not verified claims that working programs are included here.
 
-Use GitHub for version control and collaboration.
+## Adding the original work
+Upload the original source files and supporting documents before describing the programs as implemented or tested. When source code is added, include the correct filenames and compiler instructions here.
 
-2. Project Contents
-Task 1 – Research
-
-Comparison between GitHub and GitLab (licensing, features, differences).
-
-Task 2 – Number Converter
-
-Converts between Decimal, Binary, and Hexadecimal.
-
-Includes four separate functions and a random number demo.
-
-Task 3 – Order Management System
-
-“Magwinya Magic” system using parallel arrays.
-
-Add, display, search, and calculate total revenue.
-
-3. How to Run
-
-Clone this repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
-
-Open the .cpp file you want to run in a C++ IDE or compiler.
-
-Compile using:
-
-g++ filename.cpp -o program
-./program
-
-4. Screenshots
-
-(Insert screenshots of program output and GitHub commits here)
-
-5. Author
-
-Name: Thabiso
-Course: Programing level 3A
-Year: 2025
+## Author
+Thabiso Ndlovu
