@@ -126,3 +126,14 @@ The remaining repositories are being matched to their original project files bef
 ---
 
 <p align="center"><em>Learning by building. Improving through problem-solving. Growing through technology.</em></p>
+
+
+## New main portfolio index
+
+The current project directory and repository index is maintained in [Thabiso's main technical portfolio](https://github.com/Thabiso848/new). Individual project repositories:
+
+- [Warehouse Security and Inventory Robot](https://github.com/Thabiso848/project)
+- [3D-Printed Sensor Mounts](https://github.com/Thabiso848/project1)
+- [Raspberry Pi 7-Segment Counter](https://github.com/Thabiso848/project2)
+
+This repository is retained as an earlier ISAT and portfolio archive; its existing files have not been removed.
